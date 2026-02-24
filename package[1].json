@@ -1,4 +1,4 @@
-package[1].json   ❌ wrong
+package.json      ✔ correct
 {
   "name": "rider-management-api",
   "version": "1.0.0",
